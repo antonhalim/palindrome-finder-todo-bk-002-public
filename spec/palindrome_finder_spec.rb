@@ -12,8 +12,8 @@ describe PalindromeFinder do
   let(:too_short_for_palindrome)  {PalindromeFinder.new("a")}
 
   # complex
-  let(:complex_letter_palindrome) {PalindromeFinder.new("erisracecarrekl")} # racecar
-  let(:complex_mirror_palindrome) {PalindromeFinder.new("acecarrehannahkl")} # hannah
+  let(:complex_letter_palindrome) {PalindromeFinder.new("erisracecarrekl")}
+  let(:complex_mirror_palindrome) {PalindromeFinder.new("acecarrehannahkl")}
 
   describe '#get_longest_palindrome' do
 
