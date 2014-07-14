@@ -4,7 +4,7 @@ class PalindromeFinder
     # code here
   end
 
-  def get_palindrome
+  def get_longest_palindrome
     # code here
   end
 
