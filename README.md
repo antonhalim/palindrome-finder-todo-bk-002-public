@@ -1,25 +1,19 @@
 ---
-tags: template, procedural
-language: ruby, rb
-resources: 0
+tags: WIP, todo
+language: ruby
+resources: 1
 ---
 
-# Basic Procedural App Template
+# Palindrome Finder
 
-## Structure
+## Objective
+Write a method that finds the longest palindrome in a string.
 
-```bash
-procedural-ruby-template/
-├── README.md
-├── .rspec
-├── my_file.rb
-└── spec
-    └── spec_helper.rb
-    └── my_file_spec.rb
-```
+## Instructions
+* This is a test-driven todo so get those specs to pass!
 
-## Usage
-
-This template is for simple test driven procedural ruby labs with no classes, and everything done in one file. Labs like [Badges and Schedules](https://github.com/flatiron-school-curriculum/badges-and-schedules)
+## Extra Credit
+* Make a Sinatra app using your code from above.
 
 ## Resources
+* [Wikipedia](http://en.wikipedia.org/) - [Palindromes](http://en.wikipedia.org/wiki/Palindrome)
