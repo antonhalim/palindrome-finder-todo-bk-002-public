@@ -1,5 +1,5 @@
 ---
-tags: WIP, todo
+tags: todo, string manipulation, cs, computer science
 language: ruby
 resources: 1
 ---
